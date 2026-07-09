@@ -112,7 +112,7 @@ groups:
           consumers MAY use this attribute to optimize telemetry collection
           or improve user experience.
         examples: ["critical", "high", "medium", "low"]
-      - id: service.instance.cost_center
+      - id: service.instance.cost_center.id
         type: string
         stability: development
         brief: >
